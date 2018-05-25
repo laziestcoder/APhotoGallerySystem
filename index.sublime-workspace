@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"tEx",
+				"text-anchor"
+			],
+			[
+				"dec",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"te",
+				"text-decoration-color"
+			],
+			[
+				"lo",
+				"logout"
+			],
+			[
+				"first",
+				"_firstName"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"border",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Java Script/arraymethods.html",
+		"/F/My Project/Travell Project/SUST Project/index.html",
+		"/F/My Project/Travell Project/SUST Project/How_To_Travel.html",
+		"/F/My Project/Travell Project/SUST Project/direction.html",
+		"/F/My Project/Travell Project/SUST Project/modal.html",
+		"/F/My Project/Travell Project/SUST Project/Where_To_Stay_Hotel.html",
+		"/F/Java Script/array.html",
+		"/F/Java Script/datemethods.html",
+		"/F/Java Script/dateformats.html",
+		"/F/Java Script/dates.html",
+		"/F/Java Script/mathRandom.html",
+		"/F/Java Script/mathobj.html",
+		"/F/Java Script/numberMethods.html",
+		"/F/Java Script/numbers.html",
+		"/F/Java Script/stringmethods.html",
+		"/F/Java Script/stringmethods2.html",
+		"/F/cmc.html",
+		"/F/Java Script/string.html",
+		"/F/Java Script/scope.html",
+		"/F/Java Script/events.html",
+		"/F/Java Script/object.html",
+		"/F/Java Script/function.html",
+		"/F/Java Script/lightOnOff.html",
+		"/F/Java Script/upadatedHeader.html",
+		"/F/Java Script/datatypes.html",
+		"/F/Java Script/console3.html",
+		"/F/Java Script/myscript.js",
+		"/F/Java Script/file1.html",
+		"/F/Java Script/index.html",
+		"/F/Java Script/inputoutput.html",
+		"/F/Java Script/methods.html",
+		"/F/Java Script/file.html",
+		"/F/Java Script/console2.html",
+		"/F/Java Script/console.html",
+		"/C/Users/laziestcoder/Desktop/Naim Task/project 4/index.html",
+		"/C/Users/laziestcoder/Desktop/Naim Task/project 4/css/bootstrap.css",
+		"/F/Amit/Desktop/HTML practice/practice.html",
+		"/C/Users/laziestcoder/Desktop/Naim Task/Naim Project/index.html",
+		"/C/Users/laziestcoder/Desktop/Naim Task/naimtask.css",
+		"/C/Users/laziestcoder/Desktop/Naim Task/css/bootstrap.css",
+		"/F/sheba/index.php",
+		"/F/sheba/style.css",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.min.css.map",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap-theme.css",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.min.css",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.css.map",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/npm.js",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/bootstrap.js",
+		"/C/Users/laziestcoder/Desktop/Naim Task/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/bootstrap.min.js",
+		"/C/Users/laziestcoder/Desktop/Naim Task/naimtask.html",
+		"/F/Java Script/functioncommands.txt",
+		"/F/Soft Installed/Sublime Text Build 3126 x64/Data/Packages/User/myc++.sublime-build",
+		"/F/Java Script/myfirstc.cpp",
+		"/F/Project 2/project/validate.php",
+		"/F/Project 2/project/search_result.php",
+		"/F/Project 2/project/search_full_result.php",
+		"/F/Project 2/project/register_action.php",
+		"/F/Project 2/project/search.php",
+		"/F/Project 2/project/register.php",
+		"/F/Project 2/project/private.php",
+		"/F/Project 2/project/login_action.php",
+		"/F/Project 2/project/login.php",
+		"/F/Project 2/project/index.php",
+		"/F/Project 2/project/exit.php",
+		"/F/Project 2/project/db.php",
+		"/F/xampp/htdocs/sheba/tuitioncolony.php",
+		"/F/xampp/htdocs/sheba/ami.php",
+		"/F/xampp/htdocs/sheba/tuition.php",
+		"/F/xampp/htdocs/sheba/style.css",
+		"/F/xampp/htdocs/sheba/searchstyle.css",
+		"/F/xampp/htdocs/sheba/search.php",
+		"/F/xampp/htdocs/sheba/savetuitionstyle.css",
+		"/F/xampp/htdocs/sheba/savetuition.php",
+		"/F/xampp/htdocs/sheba/profilestyle.css",
+		"/F/xampp/htdocs/sheba/profile.php",
+		"/F/xampp/htdocs/sheba/omni.php",
+		"/F/xampp/htdocs/sheba/logout.php",
+		"/F/xampp/htdocs/sheba/login.php",
+		"/F/xampp/htdocs/sheba/index.php",
+		"/F/xampp/htdocs/sheba/footer.php",
+		"/F/xampp/htdocs/sheba/footer.css",
+		"/F/xampp/htdocs/sheba/deleteaccount.php",
+		"/F/xampp/htdocs/sheba/config.php",
+		"/F/xampp/htdocs/sheba/validate.php",
+		"/F/xampp/htdocs/sheba/userupdatestyle.css",
+		"/F/xampp/htdocs/sheba/userprofile.php",
+		"/F/xampp/htdocs/sheba/update.php",
+		"/F/xampp/htdocs/sheba/updatestyle.css",
+		"/F/xampp/htdocs/sheba/tutor.php",
+		"/F/xampp/htdocs/sheba/tutorstyle.css",
+		"/F/xampp/htdocs/sheba/tuitioncolonystyle.css",
+		"/F/xampp/htdocs/sheba/tuitionstyle.css",
+		"/F/xampp/htdocs/sheba/admin.php",
+		"/F/xampp/htdocs/sheba/admin_addadmin.php",
+		"/F/xampp/htdocs/sheba/admin_deladmin.php",
+		"/F/xampp/htdocs/sheba/admin_list.php",
+		"/F/xampp/htdocs/sheba/admin_userlist.php",
+		"/F/xampp/htdocs/sheba/adminprofile.php",
+		"/F/sheba/tutor.php",
+		"/F/sheba/savetuition.php",
+		"/F/sheba/search.php",
+		"/F/sheba/tuitionstyle.css",
+		"/F/sheba/config.php",
+		"/F/sheba/savetuitionstyle.css",
+		"/F/sheba/omni.php",
+		"/F/sheba/tuitioncolony.php",
+		"/F/sheba/profile.php",
+		"/C/xampp/htdocs/sheba/search.php",
+		"/C/xampp/htdocs/sheba/profile.php",
+		"/C/xampp/htdocs/sheba/index.php",
+		"/C/xampp/htdocs/sheba/tuition.php",
+		"/C/xampp/htdocs/sheba/userprofile.php",
+		"/C/xampp/htdocs/sheba/tutor.php",
+		"/C/xampp/htdocs/sheba/deleteaccount.php",
+		"/C/xampp/htdocs/sheba/savetuition.php",
+		"/C/xampp/htdocs/sheba/tuitioncolony.php",
+		"/C/xampp/htdocs/sheba/tuitioncolonystyle.css",
+		"/C/xampp/htdocs/sheba/tutioncolony.php",
+		"/C/xampp/htdocs/sheba/tuitionstyle.css",
+		"/C/xampp/htdocs/sheba/login.php",
+		"/C/xampp/htdocs/sheba/logout.php",
+		"/C/xampp/htdocs/sheba/update.php",
+		"/C/xampp/htdocs/sheba/config.php",
+		"/C/xampp/htdocs/sheba/omni.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Mirpur",
+			"Nayan Paul",
+			"glyphicon glyphicon-chevron-down",
+			"Categories",
+			"nav",
+			"navigation",
+			"back",
+			"div",
+			"welcome",
+			"body",
+			"width",
+			"center",
+			"minified",
+			"tution",
+			"std",
+			"$_POST",
+			"localhost",
+			"cell",
+			"localhost",
+			"http://localhost/sheba/",
+			"class",
+			"color",
+			"White",
+			"white",
+			"Amit",
+			"Kalyan Brata chakraborty"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Muhammad Naim Uddin",
+			"glyphicon glyphicon-menu-right",
+			"st",
+			"$row",
+			"/",
+			"skyblue",
+			"Towfiq",
+			"Towfiqul Islam"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/myc++.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
